@@ -9,10 +9,6 @@ This site is now live at http://algopen.ramizabdulla.me
 - [Demo](#demo)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-  - [Frontend](#frontend)
-  - [Backend](#backend)
-   - [Setup](#setup)
 
 
 ## Demo
@@ -36,13 +32,3 @@ Below depicts the binary tree visualiser, by entering the array notation of a bi
 
 **Frontend:** NextJs / Typescript / Konva.js 
 **Backend:** None (as of now)
-
-## Getting Started
-
-### Prerequisites
-- Konva
-- Typescript Interpeter
-
-### Setup
-
-
